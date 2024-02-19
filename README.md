@@ -1,5 +1,7 @@
 # User Management System Documentation
 
+![User Management System Image](images/user_functions.jpg)
+
 ## Overview
 
 This User Management System provides a simple, yet effective way to manage user registrations, authentications, and password resets. Designed in Python, it leverages SQLite for database interactions, ensuring a lightweight and efficient management system.
